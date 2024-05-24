@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Kyloexe
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning HTML and Python
+- 👀 I’m interested in Operating Systems (Linux) and automation using scripts
+- 🌱 I’m currently learning Bash and PowerShell
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: My Discord: velaorion#9714
+- 📫 How to reach me: My Discord: velaorion
 
 <!---
 Kyloexe/Kyloexe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
